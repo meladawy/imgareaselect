@@ -35,7 +35,8 @@
     border-color: #000;
     filter: alpha(opacity=50);
     opacity: 0.5;
+    box-sizing: content-box;
 }
 
-.imgareaselect-selection {  
+.imgareaselect-selection {
 }
